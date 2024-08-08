@@ -1,3 +1,4 @@
+Let's begin!
 Ingredients:
 Tomatoes
 Eggs
@@ -7,3 +8,4 @@ Seasoning:
 Salt
 Soy Sauce
 Ketchup
+Enjoy my recipe!
