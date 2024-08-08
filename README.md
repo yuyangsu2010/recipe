@@ -5,4 +5,4 @@
 add last line locally
 ### This is a REMOTE change :0
 To try merge abort, choose remotely
-try again, locally
+fine, I will write this way
