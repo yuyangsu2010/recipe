@@ -4,4 +4,4 @@
 炒出家乡的味道，超级下饭。
 add last line locally
 ### This is a REMOTE change :0
-To try merge abort, add locally
+To try merge abort, choose remotely
