@@ -6,3 +6,4 @@ add last line locally
 ### This is a REMOTE change :0
 To try merge abort, choose remotely
 fine, I will write this way
+for next commit, add a line
