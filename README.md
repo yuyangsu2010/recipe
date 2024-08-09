@@ -5,6 +5,4 @@
 1. For anyone who is into ***Chinese food***
 2. A excellent balance between ***protein*** and ***vitamins***
 
-To try merge abort, choose remotely
-fine, I will write this way
-for next commit, add a line
+![It looks amazing!](./recipe.jpg "西红柿炒鸡蛋")
